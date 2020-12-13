@@ -1,3 +1,7 @@
+@media(max-width:1150px) {
+.services {
+  height: 1320px;}
+
 @media(max-width:1000px) {
   .text-container {
     top: 46%;
