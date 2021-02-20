@@ -1,8 +1,4 @@
 @media(max-width:1150px) {
-.services {
-  height: 1320px;}
-
-@media(max-width:1000px) {
   .text-container {
     top: 46%;
   }
@@ -30,6 +26,7 @@
   }
   .services {
     padding: 2% 5% 0px 5%;
+    height: 1320px;
   }
   .box-container {
     justify-content: center;
